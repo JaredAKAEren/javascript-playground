@@ -1,1 +1,1 @@
-# javascript-playground
+# Some JavaScript practice.
